@@ -1,0 +1,8 @@
+@import '../../assets/scss/main.module.scss';
+
+.Square {
+  border: 1px dashed $middle;
+  min-width: 30em;
+  height: 30em;
+  margin-left: 3em;
+}
