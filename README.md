@@ -1,6 +1,6 @@
 # Border Radius Previewer
 
-### `npm install`
+### `yarn install`
 
 ### `yarn start`
 
